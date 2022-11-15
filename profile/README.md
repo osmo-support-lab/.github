@@ -3,6 +3,7 @@
 
  ## Welcome to the Official ™️ Github Organization for the Osmosis Support Lab
  
+ ![OSL Twitter Banner](/images/OSL_TwitterBanner.png)
 
  ##### Our public repositories are all open-source, and community created and maintained.
 
